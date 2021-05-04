@@ -1,5 +1,16 @@
 # Personal settings for 
 
+* [Personal settings for](#personal-settings-for)
+   * [1. vim ide](#1-vim-ide)
+      * [1.1 main feature](#11-main-feature)
+      * [1.2 sample](#12-sample)
+   * [2. Goland](#2-goland)
+      * [2.1 main modification](#21-main-modification)
+      * [2.2 sample](#22-sample)
+   * [3. Pycharm](#3-pycharm)
+      * [3.1 main modification](#31-main-modification)
+      * [3.2 sample](#32-sample)
+   * [4. key mapping](#4-key-mapping)
 
 ## 1. vim ide
 ### 1.1 main feature
